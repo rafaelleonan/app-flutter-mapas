@@ -19,6 +19,9 @@ Um aplicativo com uma tela de um mapa desenvolvido durante o curso de Desenvolvi
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.22.2-blue)
 ![Dart](https://img.shields.io/badge/Dart-3.4.3-blue)
+![Google Maps Flutter](https://img.shields.io/badge/google_maps_flutter-^2.7.0-green?logo=google-maps)
+![Geolocator](https://img.shields.io/badge/geolocator-^12.0.0-green)
+![Geocoding](https://img.shields.io/badge/geocoding-^2.0.0-green)
 
 ## Funcionalidades
 
